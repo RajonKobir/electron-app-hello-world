@@ -1,0 +1,23 @@
+{
+  "name": "electron-app-hello-world",
+  "version": "1.0.0",
+  "description": "A Simple Electron App",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "simple",
+    "app",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Rajon Kobir",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
