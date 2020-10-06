@@ -18,6 +18,6 @@
   "author": "Rajon Kobir",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.0.0"
+    "electron": "^9.3.0"
   }
 }
